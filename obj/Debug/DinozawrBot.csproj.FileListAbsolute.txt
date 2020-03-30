@@ -1,0 +1,9 @@
+E:\Эээээксперементы\DinozawrBot\bin\Debug\DinozawrBot.exe.config
+E:\Эээээксперементы\DinozawrBot\bin\Debug\DinozawrBot.exe
+E:\Эээээксперементы\DinozawrBot\bin\Debug\DinozawrBot.pdb
+E:\Эээээксперементы\DinozawrBot\obj\Debug\DinozawrBot.csprojAssemblyReference.cache
+E:\Эээээксперементы\DinozawrBot\obj\Debug\DinozawrBot.Form1.resources
+E:\Эээээксперементы\DinozawrBot\obj\Debug\DinozawrBot.Properties.Resources.resources
+E:\Эээээксперементы\DinozawrBot\obj\Debug\DinozawrBot.csproj.GenerateResource.cache
+E:\Эээээксперементы\DinozawrBot\obj\Debug\DinozawrBot.exe
+E:\Эээээксперементы\DinozawrBot\obj\Debug\DinozawrBot.pdb
